@@ -8,8 +8,8 @@
       <img alt="Marco Aurélio" src="https://img.shields.io/badge/-Marco Aurélio-000?style=flat&logo=Linkedin&logoColor=FFF&labelColor=00875F" />
    </a>
 
-   <a href="./README_en.md">
-      <img alt="English" src="https://img.shields.io/badge/-Read in english -000?style=flat&logo=google-translate&logoColor=FFF&labelColor=00875F" />
+   <a href="./README.md">
+      <img alt="English" src="https://img.shields.io/badge/-Leia em português -000?style=flat&logo=google-translate&logoColor=FFF&labelColor=00875F" />
    </a>
 
 <a aria-label="Completed" href="https://rocketseat.com.br/">
@@ -22,13 +22,16 @@
 
 </p>
 
-O Ignite :rocket: é um programa para estudo de  novas tecnologias, através de um currículo extremamente prático, que impulsiona seus alunos através de uma metodologia de aprendizado eficiente baseada em **Foco**, **Prática** e **Grupo**, sempre pensando nos desafios do mundo real. 
 
-Além disso, o programa conta com uma trilha específica para o desenvolvimento de habilidades comportamentais (*soft skills*). Para consolidar o que aprendemos nas aulas e associar o conhecimento adquirido às necessidades ao mercado, participamos de: **desafios**, **eventos**, **mentorias** e outras atividades.
 
-#### :loudspeaker: Aviso
-Este repositório está dividido em duas branches (`trilha-2021` e `trilha-2022`), pois durante o seu desenvolvimento, o conteúdo das trilhas dos cursos foi atualizado.
-### :tickets: Trilhas do Ignite
-O ignite possui diversas trilhas de aprendizado, focadas em tecnologias e áreas específicas.
+Ignite 🚀 is a program for the study of new technologies, through an extremely practical curriculum, which drives its students through an efficient learning methodology based on **Focus**, **Practice** and **Group**, always thinking about the challenges of the real world. 
 
-<img src="./.github/react.svg" width="18px" />&nbsp;&nbsp;[Trilha ReactJS](./Trilha_React)
+In addition, the program has a specific track for the development of behavioral skills (*soft skills*). To consolidate what we learn in class and associate the knowledge acquired with market needs, we participate in: **challenges**, **events**, **mentorships** and other activities. 
+
+#### :loudspeaker: Disclaimer
+This repository is divided into two branches (`trilha-2021` and `trilha-2022`), because during its development, the content of the courses' tracks was updated.
+
+## :tickets: Ignite tracks
+Ignite has several learning paths, focused on specific technologies and areas. 
+
+<img src="./.github/react.svg" width="18px" />&nbsp;&nbsp;[ReactJS](./Trilha_React)
